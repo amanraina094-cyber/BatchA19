@@ -8,6 +8,7 @@ public class demoTest {
 	public void HP1Test()
 	{
 		System.out.println("Ron");
+		System.out.println("Hagrid");
 	}
 	
 	
